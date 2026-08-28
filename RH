@@ -1,0 +1,101 @@
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+<!DOCTYPE html>
+          <div class="task"><div class="date">01/09–04/09</div><div class="name">Identificar gaps e oportunidades no Notion</div><div class="status not">Não iniciado</div><div class="progress blue"><span style="width:0%"></span></div></div>
+          <div class="task"><div class="date">03/09–05/09</div><div class="name">Criar backlog de melhorias e novos materiais</div><div class="status not">Não iniciado</div><div class="progress blue"><span style="width:0%"></span></div></div>
+          <div class="task"><div class="date">07/09–08/09</div><div class="name">Priorizar conteúdos, realizar primeiras atualizações e definir responsáveis</div><div class="status not">Não iniciado</div><div class="progress blue"><span style="width:0%"></span></div></div>
+        </div>
+      </section>
+    </div>
+
+    <aside class="side">
+      <div class="card">
+        <h3>Entregas para 08/09</h3>
+        <div class="deliverable"><strong>Cultura GEX v1</strong><span>Pilares, comportamentos, rituais, Guardiões e comunicação.</span></div>
+        <div class="deliverable"><strong>Roadmap Pesquisa de Clima</strong><span>Prioridades, ações, responsáveis, prazos e indicadores.</span></div>
+        <div class="deliverable"><strong>Talent Mapping v1</strong><span>Metodologia, primeiros talentos e criticidade.</span></div>
+        <div class="deliverable"><strong>Status R&S</strong><span>ATS, novo fluxo e Fit Cultural.</span></div>
+        <div class="deliverable"><strong>Status Notion</strong><span>Diagnóstico, backlog e primeiras atualizações.</span></div>
+      </div>
+
+      <div class="card depbox">
+        <h3>Dependências da Diretoria</h3>
+        <ul>
+          <li>Aprovação dos pilares e comportamentos da Cultura GEX</li>
+          <li>Validação dos Guardiões da Cultura</li>
+          <li>Aprovação das prioridades do Roadmap da Pesquisa de Clima</li>
+          <li>Priorização de recursos para R&S e retenção de talentos</li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+
+  <div class="footer-grid">
+    <div class="card">
+      <h3>Rituais do time</h3>
+      <div class="rituals">
+        <div class="ritual"><strong>Segunda — Prioridades</strong><span>3 entregas da semana + principal risco/gargalo.</span></div>
+        <div class="ritual"><strong>Quarta — Checkpoint</strong><span>O que avançou? O que está travado? Dependências?</span></div>
+        <div class="ritual"><strong>Sexta — Fechamento</strong><span>Entregue / Em andamento / Próximo passo / Gargalo.</span></div>
+      </div>
+    </div>
+    <div class="card director">
+      <h3>Reunião com Diretor — 09/09</h3>
+      <div class="cols">
+        <div class="mini">3 principais entregas/conquistas</div>
+        <div class="mini">3 prioridades do próximo ciclo</div>
+        <div class="mini">Gargalos e decisões necessárias</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
